@@ -9,3 +9,11 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+### Now I am adding a task list.
+- [ ] It
+- [ ] looks
+- [ ] a
+- [ ] little
+- [ ] like
+- [x] this
